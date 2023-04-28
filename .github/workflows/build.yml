@@ -3,4 +3,4 @@ jobs :
       first-jobs:
           runs-on : ubuntu-latest
           steps :
-                - run : node --verion
+                - run : node --version
